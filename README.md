@@ -9,10 +9,6 @@ DevArtist Go语言开发视频项目代码
 
 📚 - [Lessons](docs/contents.md)
 
-# 合集
-
-👉 [Performance Benchmarks](https://youtube.com/playlist?list=PLiMWaCMwGJXmcDLvMQeORJ-j_jayKaLVn&si=p-UOaVM_6_SFx52H)
-
 
 # 账号地址
 
